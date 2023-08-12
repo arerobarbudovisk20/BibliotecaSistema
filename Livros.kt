@@ -4,6 +4,7 @@ open class Livros(
     var numPaginas:Int,
     var anoPublicacao:Int,
     var autor:String
+    
 
 ) {
 
